@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Messenger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Aes_Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eThL0pzUH23IKMZCxUUqTpOjPtl7Gm7j9bx+ZfnBqjA=</Value>
+    </Setting>
+    <Setting Name="Aes_Iv" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+TSFLBn1VTTh4VtCFTv9AA==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
